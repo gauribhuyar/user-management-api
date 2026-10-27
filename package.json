@@ -1,0 +1,13 @@
+
+{
+  "name": "user-management-api",
+  "version": "1.0.0",
+  "description": "User Management REST API with validation and middleware",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
